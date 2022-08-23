@@ -1,0 +1,12 @@
+#grid {
+    width:550px;
+    height: 400px;
+    display: flex;
+    padding-left: 10;
+    flex-wrap: wrap;
+padding-left: 300px;}
+
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
